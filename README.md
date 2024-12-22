@@ -1,7 +1,7 @@
 # Brat Generator User Guide
 
-![Brat Generator Homepage](https://bratgenerator.me/og-image.png)
-https://github.com/zlenmiao/brat-generator-free/blob/main/bratgenerator.me.png?raw=true
+![Brat Generator Homepage](https://github.com/zlenmiao/brat-generator-free/blob/main/bratgenerator.me.png?raw=true)
+
 
 ## Introduction
 [Brat Generator](https://bratgenerator.me/) is a simple yet powerful tool that helps you create beautiful text images with solid color backgrounds. Perfect for social media covers, title images, quick posters, or signature images.
